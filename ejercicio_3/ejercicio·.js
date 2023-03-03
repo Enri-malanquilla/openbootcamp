@@ -28,7 +28,7 @@ function addNumbers(n1, n2, n3) {
       return this.doorsNumbers;
     }
   }
-  
+  //Añado una puerta
   const car = new Coche();
   car.addDoor();
   
