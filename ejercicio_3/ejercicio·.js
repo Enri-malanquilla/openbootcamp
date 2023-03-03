@@ -29,6 +29,8 @@ function addNumbers(n1, n2, n3) {
     }
   }
   //Añado una puerta
+  console.log(`Mi coche tiene ${car.getDoors()} puertas antes de añadirle una`);
+
   const car = new Coche();
   car.addDoor();
   
