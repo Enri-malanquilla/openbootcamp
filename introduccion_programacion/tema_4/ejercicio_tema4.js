@@ -34,8 +34,8 @@ do {
 } while (numeroDoWhile < 3);
 
 // Bucle for
-for (let numeroFor = 0; numeroFor <= 3; numeroFor++) {
-  console.log(`Número en for ${numeroFor}`);
+for (let i = 0; i <= 3; i++) {
+  console.log(`Número en for ${i}`);
 }
 
 // Switch
